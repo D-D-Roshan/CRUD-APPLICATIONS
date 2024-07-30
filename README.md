@@ -30,7 +30,7 @@ Follow these steps to set up and run the Book Store project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arjuncvinod/Book-Store.git
+   git clone https://github.com/D-D-Roshan/CRUD-APPLICATIONS
    cd book-store
    ```
 
