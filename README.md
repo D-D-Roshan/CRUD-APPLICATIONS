@@ -59,5 +59,3 @@ Follow these steps to set up and run the Book Store project locally:
    ```bash
    npm start
    ```
-
-B
